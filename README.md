@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shehr-Bano
-- 👀 I’m interested in C, C++, Java, MATLAB and Python programming. 
-- 🌱 I’m a Master's Degree Holder in Computer Engineering
+- 👋 Hi, I’m @Shehr-Bano.
+- 👀 I’m interested in C, C++, Java, JS, MATLAB and Python programming. 
+- 🌱 I’m a PhD student in Electrical Engineering.
 - 📫 Reach me at https://www.linkedin.com/in/shehr-bano/
 
 <!---
